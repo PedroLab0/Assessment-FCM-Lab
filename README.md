@@ -5,7 +5,7 @@
 git clone https://github.com/tu-usuario/Assessment-FCM-Lab.git
 cd Assessment-FCM-Lab
 
-Asegúrate de tener Node.js instalado.
+Debes de tener Node.js instalado.
 node --version
 npm --version
 
