@@ -1,8 +1,6 @@
 # Assessment-FCM-Lab
 
 # Instalación y configuración
-cd Assessment-FCM-Lab
-
 Debes de tener Node.js instalado.
 node --version
 npm --version
