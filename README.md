@@ -1,8 +1,6 @@
 # Assessment-FCM-Lab
 
 # Instalación y configuración
-
-git clone https://github.com/PedroLab0/Assessment-FCM-Lab.git
 cd Assessment-FCM-Lab
 
 Debes de tener Node.js instalado.
